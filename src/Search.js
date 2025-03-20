@@ -20,7 +20,7 @@ const Search = ({ pokemonData }) => {
   const navigate = useNavigate();
 
   const handleSuggestionClick = (pokemon) => {
-    navigate(`/pokemon/${pokemon.id}`);
+    navigate(`/poke720search/pokemon/${pokemon.id}`);
   };
 
   return (

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poke720search/static/css/main.2d55e493.css",
-    "main.js": "/poke720search/static/js/main.1aa3b40b.js",
+    "main.js": "/poke720search/static/js/main.ff9ce680.js",
     "static/js/453.74ca9777.chunk.js": "/poke720search/static/js/453.74ca9777.chunk.js",
     "index.html": "/poke720search/index.html",
     "main.2d55e493.css.map": "/poke720search/static/css/main.2d55e493.css.map",
-    "main.1aa3b40b.js.map": "/poke720search/static/js/main.1aa3b40b.js.map",
+    "main.ff9ce680.js.map": "/poke720search/static/js/main.ff9ce680.js.map",
     "453.74ca9777.chunk.js.map": "/poke720search/static/js/453.74ca9777.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d55e493.css",
-    "static/js/main.1aa3b40b.js"
+    "static/js/main.ff9ce680.js"
   ]
 }

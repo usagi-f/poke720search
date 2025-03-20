@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4",
     "rimraf": "^3.0.2"
   },
-  "homepage": "https://usagi-f.github.io",
+  "homepage": "https://usagi-f.github.io/poke720search",
   "scripts": {
     "start": "react-scripts start",
     "build": "rimraf docs && react-scripts build && mv build docs",

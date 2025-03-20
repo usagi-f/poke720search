@@ -9,8 +9,8 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Search pokemonData={pokemonData} />} />
-        <Route path="/pokemon/:id" element={<PokemonDetail pokemonData={pokemonData} />} />
+        <Route path="/poke720search" element={<Search pokemonData={pokemonData} />} />
+        <Route path="/poke720search/pokemon/:id" element={<PokemonDetail pokemonData={pokemonData} />} />
       </Routes>
     </Router>
   );
